@@ -1,6 +1,6 @@
 ---
 description: Eopkg detalhes.
-h1: Solus
+h1: Eopkg detalhes
 layout: post
 pagetitle: eopkg detalhes
 tags: ["linux"]
