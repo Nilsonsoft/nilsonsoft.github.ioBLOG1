@@ -1,14 +1,11 @@
 ---
+description: Archlinux install.
+h1: Instalação do archlinux 2018
 layout: post
-title:  "Instalação do Archlinux"
-date:   2018-08-06 11:09:13
-categories: Linux
-tags: Instalação
-author: Nilsonlinux
+pagetitle: Archlinux
+tags: ["linux"]
+comments: true
 ---
-
-* content
-{:toc}
 
 O Arch Linux é considerada para usuários mais avançados, por conta de sua filosofia de desenvolvimento. Além disso, o Arch Linux é simples, flexível e considerada UNIX-like.  
 Site Arch Linux: www.archlinux.org  

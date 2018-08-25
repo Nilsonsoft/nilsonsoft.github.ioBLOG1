@@ -1,14 +1,11 @@
 ---
+description: Cloudready.
+h1: Converder um laptop windows em Chrome OS
 layout: post
-title:  "Como converter um notebook windows em Chromebook"
-date:   2018-08-13 17:55:54
-categories: Linux distribuição
-tags: sistema google Chrome-OS
-author: Nilsonlinux
+pagetitle: Chromium OS
+tags: ["linux"]
+comments: true
 ---
-
-* content
-{:toc}
 
 É mais fácil do que você pensa, e vale a pena fazer para alguns usuários.  
 
