@@ -1,14 +1,11 @@
 ---
 description: Eopkg detalhes.
-h1: Connecting Android to UVa's Cavalier Network
+h1: Solus
 layout: post
-pagetitle: Connecting Android to UVa's Cavalier Network
+pagetitle: eopkg detalhes
 tags: ["linux"]
 comments: true
 ---
-
-* content
-{:toc}
 
 The Budgie Desktop a modern desktop designed to keep out the way of the user. It features heavy integration with the GNOME stack in order for an enhanced experience.
 
