@@ -1,0 +1,4 @@
+plugins:
+  - octopress-autoprefixer
+sass:
+  style: compressed
