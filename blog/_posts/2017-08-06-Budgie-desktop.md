@@ -1,10 +1,10 @@
 ---
+description: Eopkg detalhes.
+h1: Connecting Android to UVa's Cavalier Network
 layout: post
-title:  "Budgie desktop"
-date:   06-08-2018 20:12:00
-categories: Linux
-tags: solus help
-author: Nilsonlinux
+pagetitle: Connecting Android to UVa's Cavalier Network
+tags: ["linux"]
+comments: true
 ---
 
 * content
