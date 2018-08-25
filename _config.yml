@@ -3,7 +3,7 @@ future: true
 highlighter: pygments
 markdown: redcarpet # kramdown doesn't support ``` for code blocks
 markdown_ext: "md"
-name: "Art Chaidarun"
+name: "Nilsonlinux"
 permalink: /:title.html
 port: 8005
 redcarpet:
