@@ -1,8 +1,8 @@
 ---
-description: Eopkg detalhes.
-h1: Solus
+description: Budgie.
+h1: Budgie desktop
 layout: post
-pagetitle: eopkg detalhes
+pagetitle: budgie detalhes
 tags: ["linux"]
 comments: true
 ---
