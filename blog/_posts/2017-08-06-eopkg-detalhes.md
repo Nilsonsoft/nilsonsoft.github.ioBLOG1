@@ -1,14 +1,11 @@
 ---
+description: Eopkg detalhes.
+h1: Solus
 layout: post
-title:  "eopkg detalhes"
-date:   2018-08-06 15:14:54
-categories: Linux distribuição
-tags: solus bash terminal
-author: Nilsonlinux
+pagetitle: eopkg detalhes
+tags: ["linux"]
+comments: true
 ---
-
-* content
-{:toc}
 
 O Solus usa o sistema de gerenciamento de pacotes eopkg para entregar software ao usuário final. 
 Abaixo estão alguns comandos básicos para usar o eopkg.
