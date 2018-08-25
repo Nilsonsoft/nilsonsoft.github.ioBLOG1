@@ -1,6 +1,6 @@
 ---
 description: Cloudready.
-h1: Converder um laptop windows em Chrome OS
+h1: Converter um laptop windows em Chrome OS
 layout: post
 pagetitle: Chromium OS
 tags: ["linux"]
